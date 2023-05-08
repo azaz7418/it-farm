@@ -1,0 +1,52 @@
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-image: ;
+}
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0px;
+  border-radius: 5px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+input[type=password], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0px;
+  border-radius: 5px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+input[type=submit] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0px;
+  border-radius: 5px;
+  color: white;
+  background-color: #f47307f0;
+  border: none;
+  cursor: pointer;
+}
+.login_format {
+  
+  
+  border-radius: 22px;
+  background: #54545467;
+  
+  padding: 50px;
+}
+.log {
+  background-image: url("../Screenshot.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
