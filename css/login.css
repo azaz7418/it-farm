@@ -50,3 +50,11 @@ input[type=submit] {
   align-items: center;
   justify-content: center;
 }
+@media (min-width:500px) {
+  .axax {
+    display: none;
+  }
+  .header p {
+    margin-top: 50px;
+  }
+}
